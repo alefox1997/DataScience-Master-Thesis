@@ -1,0 +1,6 @@
+- Nelle cartelle chiamate Codice_EN (IT,KO) si trovano i notebook con cui si sono raccolte 
+ le recensioni.
+
+- QcRaccolte è il quaderno in cui si analizzano e puliscono le raccolte per ottenere file definitivi e pultii
+
+- Shelves è il notebokk in cui si analizza il campo relativo ai generi suggeriti per le varie piattaforme
