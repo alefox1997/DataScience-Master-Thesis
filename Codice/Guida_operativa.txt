@@ -1,2 +1,0 @@
-Di base, dove vedi QC si parla di quality check e di cattura metadati per le piattaforme.
-Dove c'è scraping nel titolo del notebook, si intende raccolta di reviews.
