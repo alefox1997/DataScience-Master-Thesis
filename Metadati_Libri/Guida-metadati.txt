@@ -1,0 +1,2 @@
+In questa sezione si trovano i csv relativi ai metadati raccolti per i libri di cui
+si vuole prendere le recensioni. esempio di metadati sono: autore, titolo, ISBN, numero di reviews.
