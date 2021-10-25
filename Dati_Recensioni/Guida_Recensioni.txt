@@ -1,0 +1,5 @@
+In ognuna delle cartelle presenti si trovano i file definitivi di raccolta relativi alle 
+recensioni per ognuna delle 3 lingue.
+
+Il file excel EN-IT-KR book reviews contiene i link per la cattura dei libri di interesse dalle
+varie piattaforme
