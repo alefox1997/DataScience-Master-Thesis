@@ -4,3 +4,5 @@
 	- Polarity3 per analisi con neutre
 	- Polarity3_noneut per no neutre (Buono anche 6ok per no neutre)
 - Polarity_datasetFT per creare test train e dev
+
+- i vari dataset sono associabili ai nomi dei notebook. Ho caricato solo i vincitori. Le anteprime dei dataset si vedono dentro ai quaderni
