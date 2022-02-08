@@ -1,0 +1,6 @@
+- vengono inoltrati tutti i quaderni relativi alle varie strategie ed analisi
+- i nomi richiamano alle strategie (che si possono comprendere da ppt e dal quaderno stesso)
+- quaderni relativi a modelli vincitori: 
+	- Polarity3 per analisi con neutre
+	- Polarity3_noneut per no neutre (Buono anche 6ok per no neutre)
+- Polarity_datasetFT per creare test train e dev
