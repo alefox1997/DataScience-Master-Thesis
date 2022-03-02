@@ -1,0 +1,6 @@
+- vengono riportati i quaderni per le 2 strategie con XLMR (spiegate su ppt)
+- viene riportato quaderno in cui vengono testati i modelli vicnitori (questi 2 più il top mBERT) su benchmark EN
+- train5 e test2 sono per augmentation
+- train6 e test3 sono per ALSA
+
+le due strategie sono differenziate solo nell'inseriemtno delle neutre KO, come spiegato in ppt
