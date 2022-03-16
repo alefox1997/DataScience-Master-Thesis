@@ -7,6 +7,9 @@ vengono caricati i file relativi alla strategia finale per polarity, presentata 
 	- baseline: per mbert e xlmr
 	- dev: development per tutning iperparametri
 	- FineTuning: fine tuning per i 2 modelli
-	- evaluation: codice di test su dataaset di benchmark (2 EN, 1 IT)
+	- evaluation: codice di test su dataset di benchmark 
+	- Score_EN: codice di raccolta etichette polarity per EN (uguale per IT e KO)
+
+- Dati_Etichettati: dataset con predizione di etichette polarity
 - ppt di presentazione dell'intero percorso di studio sulla polarity
 - tabella excel con i risultati per polarity
