@@ -1,0 +1,12 @@
+GUIDA OPERATIVA POLARITY:
+
+vengono caricati i file relativi alla strategia finale per polarity, presentata nel ppt. Si trova:
+
+- folder data: cartellle contenente dati train/test/dev per trainare i modelli
+- codici:
+	- baseline: per mbert e xlmr
+	- dev: development per tutning iperparametri
+	- FineTuning: fine tuning per i 2 modelli
+	- evaluation: codice di test su dataaset di benchmark (2 EN, 1 IT)
+- ppt di presentazione dell'intero percorso di studio sulla polarity
+- tabella excel con i risultati per polarity
